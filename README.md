@@ -1,2 +1,3 @@
 # hotelSystem
-Hotel Reservation System (HRS): sistema desenvolvido como trabalho final da UC de Engenharia de Software, centralizado na gestão de reservas, quartos, check-in/check-out e faturação, para otimizar a operação do hotel e a experiência dos utilizadores.
+
+O Hotel Reservation System é uma aplicação Java completa que implementa a gestão operacional de um hotel, incluindo reservas, check-in/check-out, faturação, housekeeping, manutenção e relatórios financeiros.
